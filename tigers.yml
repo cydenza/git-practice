@@ -2,6 +2,7 @@ grman
 
 manager : Brenda
 
-member : George
+members : George
+          Tyler
 
 coach : Grace
